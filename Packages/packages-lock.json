@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.atteneder.gltfast": {
       "version": "https://github.com/atteneder/glTFast.git#v5.0.0",
       "depth": 0,
@@ -27,6 +28,14 @@
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1"
+=======
+    "com.unity.ai.navigation": {
+      "version": "1.1.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+>>>>>>> ritik-branch-360-video-player
       },
       "url": "https://packages.unity.com"
     },
@@ -67,7 +76,11 @@
     },
     "com.unity.ide.rider": {
       "version": "3.0.24",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> ritik-branch-360-video-player
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
@@ -76,7 +89,11 @@
     },
     "com.unity.ide.visualstudio": {
       "version": "2.0.18",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> ritik-branch-360-video-player
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
@@ -120,7 +137,11 @@
     },
     "com.unity.test-framework": {
       "version": "1.1.33",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> ritik-branch-360-video-player
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6",

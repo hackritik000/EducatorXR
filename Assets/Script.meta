@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 99960428207bf454594c6ae2b075dc62
+=======
+guid: 12fe371df8882c743ae452d6d145672c
+>>>>>>> ritik-branch-360-video-player
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
