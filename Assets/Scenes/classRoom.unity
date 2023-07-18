@@ -346,6 +346,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -757,6 +761,10 @@ PrefabInstance:
     - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
       propertyPath: m_Name
       value: desk (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2791,6 +2799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3649,6 +3661,10 @@ PrefabInstance:
     - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
       propertyPath: m_Name
       value: desk (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6213,6 +6229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6990,6 +7010,10 @@ PrefabInstance:
     - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
       propertyPath: m_Name
       value: desk (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8658,6 +8682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8911,6 +8939,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4283548020691001239, guid: dc6a28e3fe1674b43a1d7bbe0cd72372, type: 3}
   m_PrefabInstance: {fileID: 498457790}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &903789273 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5945290239308819512, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
+  m_PrefabInstance: {fileID: 5945290239197069641}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &903992913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9098,6 +9131,10 @@ PrefabInstance:
     - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
       propertyPath: m_Name
       value: desk (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10131,6 +10168,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 7286127487243399991, guid: a08fbb52a52a5ef44b4489db932180f7, type: 3}
   m_PrefabInstance: {fileID: 1016047421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1025715044 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5945290239308819517, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
+  m_PrefabInstance: {fileID: 5945290239197069641}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1033801960
 PrefabInstance:
@@ -12303,6 +12345,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk
       objectReference: {fileID: 0}
+    - target: {fileID: 7832335912604950377, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
+      propertyPath: m_TagString
+      value: desk
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12313,6 +12359,30 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 610891228712617139, guid: 3d78e26038f9686429517926faccbf6a, type: 3}
   m_PrefabInstance: {fileID: 1399349510}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1410000632 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1914209233521900428, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
+  m_PrefabInstance: {fileID: 5945290239197069641}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1410000634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410000632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20dc9a1b79b133b49a78ac771b266600, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 1025715044}
+  playerActivateDistance: 10
+  mainDoor: {fileID: 0}
+  rightDoor: {fileID: 0}
+  leftDoor: {fileID: 0}
+  playerCamera: {fileID: 903789273}
+  zoomCamera: {fileID: 142785727}
 --- !u!1 &1435817003
 GameObject:
   m_ObjectHideFlags: 0
@@ -19172,10 +19242,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5945290239308819512, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1914209233521900428, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1410000634}
   m_SourcePrefab: {fileID: 100100000, guid: cda976ded1616b04180b9738a1b92f56, type: 3}
 --- !u!4 &6009835211078867232
 Transform:

@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/school.unity
+    guid: 00e6eaec246bc2c45b4a775e6e62b198
+  - enabled: 1
+    path: Assets/Scenes/classRoom.unity
+    guid: 9e563cf0bcb5c294cb980096fb17d45a
+  - enabled: 1
+    path: Assets/Scenes/board.unity
+    guid: 82e7ee0e3484a9b49be7cb22eabc3310
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: c930c452a3c00fa4cb4f85282749fe14
   m_configObjects: {}
