@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
     {
 
  
-        if(controller.isGrounded&& V.y<0) 
+        if(controller.isGrounded && V.y<0) 
         {
             V.y = -2f;
         }
@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         float Z = Input.GetAxis("Vertical");
         Vector3 M = transform.right * X + transform.forward*Z;
         controller.Move(M*speed*Time.deltaTime);
-        if(Input.GetButtonDown("Jump"))
+        if(Input.GetButtonDown("Jump") && controller.isGrounded)
         {
             V.y = Mathf.Sqrt(JumpHight * -2f * gravity);
         }

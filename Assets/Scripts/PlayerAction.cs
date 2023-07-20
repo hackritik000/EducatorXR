@@ -8,7 +8,6 @@ public class PlayerAction : MonoBehaviour
 {
     public Transform cam;
     public float playerActivateDistance;
-    public GameObject mainDoor;
     public GameObject rightDoor;
     public GameObject leftDoor;
     public GameObject playerCamera;
@@ -27,10 +26,9 @@ public class PlayerAction : MonoBehaviour
             {
                 if (hit.collider.tag == "MainDoor")
                 {
+                    
                     rightDoor.GetComponent<Animator>().SetTrigger("Active");
                     leftDoor.GetComponent<Animator>().SetTrigger("Active");
-                    // hit.collider.gameObject.GetComponentInChildren<Animator>()?.SetTrigger("openLeftDoor");
-                    // SceneManager.LoadScene(1);
                 }
             }
             catch { }
@@ -43,9 +41,6 @@ public class PlayerAction : MonoBehaviour
                 }
             }
             catch { }
-            
-            //  && hit.transform.GetComponent<Animator>() == Maindoor.GetComponent<Animator>()
-            // hit.transform.GetComponent<Animator>()?.SetTrigger("Activate");
         }
     }
 }
